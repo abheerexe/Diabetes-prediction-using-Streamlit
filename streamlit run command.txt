@@ -1,0 +1,1 @@
+streamlit run "C:\Users\harsh\OneDrive\Desktop\ML\machine learning proj\multiple disease pred.py"
